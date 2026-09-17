@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D9488"/>
+      <stop offset="100%" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="mintGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#CCFBF1"/>
+      <stop offset="100%" stop-color="#99F6E4"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#tealGrad)"/>
+  <path d="M32 14 C24 14 18 20 18 28 C18 39 32 50 32 50 C32 50 46 39 46 28 C46 20 40 14 32 14 Z" fill="rgba(255, 255, 255, 0.15)"/>
+  <!-- Cross in center -->
+  <rect x="28" y="22" width="8" height="18" rx="3" fill="#FFFFFF"/>
+  <rect x="23" y="27" width="18" height="8" rx="3" fill="#FFFFFF"/>
+</svg>
